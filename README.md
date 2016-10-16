@@ -1,3 +1,3 @@
 # hello-world
 
-Hey, I like Spagetti and do Yoga .
+Hey, I like Spagetti and doing Yoga .
